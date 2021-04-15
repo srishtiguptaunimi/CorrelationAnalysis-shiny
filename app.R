@@ -18,13 +18,13 @@ library(readr)
 #Load the data of Car Sales US and explantory variables 
 data_US <- read.csv("final.csv")
 
-# Define UI for application that draws a histogram
+# Define UI for application that draws a plot
 ui <- fluidPage(
 
     # Application title
     titlePanel("Correlation Analysis of Car Demand"),
 
-    # Sidebar with a slider input for number of bins 
+    # Sidebar with a radio Buttons
     sidebarLayout(
         sidebarPanel(
                 radioButtons("variable", label = h3("Select a variable to explore the growth"), 
