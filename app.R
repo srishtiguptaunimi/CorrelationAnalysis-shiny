@@ -12,7 +12,7 @@ library(ggplot2)
 library(ggcorrplot)
 library(readr)
 
-#Load the data of Car Sales US and explantory variables 
+#Load the data of Car Sales US and explanatory variables 
 data_US <- read.csv("final.csv")
 
 # Define UI for application that draws a plot
