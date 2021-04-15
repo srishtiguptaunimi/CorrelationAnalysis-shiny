@@ -7,6 +7,8 @@
 #    http://shiny.rstudio.com/
 #
 #Load the packages
+install.packages("ggplot")
+install.packages("ggcorrplot")
 library(shiny)
 library(ggplot2)
 library(ggcorrplot)
