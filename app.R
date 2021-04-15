@@ -20,7 +20,7 @@ data_US <- read.csv("final.csv")
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Correlation Analysis of Car Sales Demand"),
+    titlePanel("Correlation Analysis of Car Demand"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
