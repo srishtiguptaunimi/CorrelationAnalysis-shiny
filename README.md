@@ -1,7 +1,7 @@
 # CorrelationAnalysis-shiny
 Hello Everyone,
 
-This app allows you to browse the data of Car Sales and the explanatory variables responsible for the change in demand of Cars.
+This app allows you to browse the data of Car Sales and the explanatory variables responsible for the shift in demand of Cars.
 
 You can visualize the growth of each variable. The data used for this app is from year 2005 to 2020.
 
