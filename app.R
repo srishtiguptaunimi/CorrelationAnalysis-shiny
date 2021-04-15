@@ -12,7 +12,6 @@ install.packages("ggcorrplot")
 library(shiny)
 library(ggplot2)
 library(ggcorrplot)
-library(dplyr)
 library(readr)
 
 #Load the data of Car Sales US and explantory variables 
