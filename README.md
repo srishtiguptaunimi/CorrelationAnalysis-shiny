@@ -1,4 +1,4 @@
-# CorrelationAnalysis-shiny
+# Auto Car Sales Data Correlation Analysis-Shiny App
 Hello Everyone,
 
 This app allows you to browse the data of Car Sales and the explanatory variables responsible for the shift in demand of Cars.
